@@ -6,7 +6,7 @@ const CourseContents = () => {
         background:"#F5F5F5"
     }
     return (
-        <div className="pt-5 pb-5" style={bgcolor}  data-aos="zoom-out-up">
+        <div className="pt-5 pb-5" style={bgcolor} data-aos="zoom-in">
             <Container>
                 <Row xs={1} md={4} className="g-4">
 
