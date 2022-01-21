@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="243" viewBox="0 0 243 243">
+    <g id="Group_2" data-name="Group 2" transform="translate(-368 -69)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="121.5" cy="121.5" r="121.5" transform="translate(368 69)" fill="#f7df1d"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(-56 -5)">
+            <text id="_" data-name="{  }" transform="translate(464 228)" font-size="133" font-family="ArialMT, Arial"><tspan x="0" y="0" xml:space="preserve">{  }</tspan></text>
+            <text id="JS" transform="translate(512 214)" font-size="57" font-family="ArialMT, Arial"><tspan x="0" y="0">JS</tspan></text>
+        </g>
+    </g>
+</svg>
